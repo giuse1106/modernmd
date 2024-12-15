@@ -1,7 +1,7 @@
 
 
   
- --------- 
+ ---------------------------------------- 
  ### `✦ 𝐂𝐎𝐍𝐅𝐈𝐆𝐔𝐑𝐀𝐙𝐈𝐎𝐍𝐄  ꙰ 𝟥𝟥𝟥 ꙰ 𝔹𝕆𝕋 ꙰ - ` 
 
  `𝐔𝐒𝐀 𝐈𝐋 𝐁𝐎𝐓𝐓𝐎𝐍𝐄 𝐏𝐄𝐑 𝐄𝐒𝐄𝐆𝐔𝐈𝐑𝐄 𝐈𝐋 𝐅𝐎𝐑𝐊` 
@@ -12,7 +12,7 @@
  - 𝐂𝐀𝐌𝐁𝐈𝐀𝐑𝐄 𝐍𝐔𝐌𝐄𝐑𝐎 𝐃𝐄𝐋 𝐏𝐑𝐎𝐏𝐑𝐈𝐄𝐓𝐀𝐑𝐈𝐎 [qui](https://github.com/MoonContentCreator/BixbyBot-Md/blob/master/config.js) 
 
 
-
+-----------------------------------------------
 
  ### `✦ 𝐕𝐄𝐑𝐒𝐈𝐎𝐍𝐄 𝐃𝐈 𝐓𝐄𝐑𝐌𝐔𝐗 𝐍𝐄𝐂𝐄𝐒𝐒𝐀𝐑𝐈𝐀: `  
  https://www.mediafire.com/file/0npdmv51pnttps0/com.termux_0.119.1-119_minAPI21(arm64-v8a,armeabi-v7a,x86,x86_64)(nodpi)_apkmirror.com.apk/file 
@@ -114,7 +114,7 @@
  npm update 
  ``` 
 
- --------- 
+ ---------------------------------------------
 
  ### `Run` 
 
@@ -122,7 +122,7 @@
  node . 
  ``` 
 
- --------- 
+ ---------------------------------------------
  ### `✦ 𝐎𝐓𝐓𝐈𝐄𝐍𝐈 𝐔𝐍 𝐀𝐋𝐓𝐑𝐎 𝐂𝐎𝐃𝐈𝐂𝐄 𝐐𝐑  ꙰ 𝟥𝟥𝟥 ꙰ 𝔹𝕆𝕋 ꙰  ` 
 
  𝐃𝐈𝐆𝐈𝐓𝐀 𝐐𝐔𝐄𝐒𝐓𝐈 𝐂𝐎𝐌𝐀𝐍𝐃𝐈: 
@@ -138,19 +138,10 @@
  ```bash 
  > sh start.sh 
  ``` 
- --------- 
+ --------- ---------------------------------------------
  ### `✦ 𝐍𝐎𝐓𝐄  ꙰ 𝟥𝟥𝟥 ꙰ 𝔹𝕆𝕋 ꙰  🔮` 
   - 𝐈𝐋 𝐁𝐎𝐓  ꙰ 𝟥𝟥𝟥 ꙰ 𝔹𝕆𝕋 ꙰  🔮 𝐄' 𝐂𝐎𝐌𝐏𝐀𝐓𝐈𝐁𝐈𝐋𝐄 𝐂𝐎𝐍 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐁𝐔𝐒𝐈𝐍𝐄𝐒𝐒 𝐄 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐍𝐎𝐑𝐌𝐀𝐋𝐄 
  - 𝐏𝐄𝐑 𝐁𝐋𝐎𝐂𝐂𝐀𝐑𝐄 𝐆𝐋𝐈 𝐔𝐓𝐄𝐍𝐓𝐈 𝐈𝐍 𝐏𝐑𝐈𝐕𝐀𝐓𝐎 𝐄𝐒𝐄𝐆𝐔𝐈 𝐈𝐋 𝐂𝐎𝐌𝐀𝐍𝐃𝐎 .𝐚𝐭𝐭𝐢𝐯𝐚 𝐚𝐧𝐭𝐢𝐩𝐫𝐢𝐯𝐚𝐭𝐨 
  - 𝐒𝐄 𝐈 𝐌𝐄𝐒𝐒𝐀𝐆𝐆𝐈 𝐃𝐄𝐋 𝐁𝐎𝐓 𝐑𝐈𝐒𝐔𝐋𝐓𝐀𝐍𝐎 𝐈𝐍 "𝐀𝐓𝐓𝐄𝐒𝐀" 𝐄𝐒𝐄𝐆𝐔𝐈 𝐈𝐋 𝐂𝐎𝐌𝐀𝐍𝐃𝐎 .𝐝𝐬 𝐄 𝐀𝐓𝐓𝐄𝐍𝐃𝐈 𝐐𝐔𝐀𝐋𝐂𝐇𝐄 𝐈𝐒𝐓𝐀𝐍𝐓𝐄 
- --------- 
-## `🌟 𝐂𝐑𝐄𝐃𝐈𝐓𝐈 𝐄 𝐁𝐀𝐒𝐄 𝐃𝐄𝐋 𝐁𝐎𝐓`  
- <a href="https://github.com/BrunoSobrino/TheMystic-Bot-MD"><img src="https://github.com/brunosobrino.png" width="100" height="100" alt="adiwajshing"/></a> 
- <div><button id="boton" type="button">TheMystic-Bot-MD - By BrunoSobrino</button></div> 
+ ---------------------------------------------
 
---------- 
-
- ## `🌟 𝐂𝐎𝐋𝐋𝐀𝐁𝐎𝐑𝐀𝐓𝐎𝐑𝐈 `  
-<a href="https://github.com/MoonContentCreator/BixbyBot-Md/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=MoonContentCreator/BixbyBot-Md" /> 
-</a>
