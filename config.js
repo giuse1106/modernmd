@@ -50,8 +50,8 @@ global.APIKeys = {
 
 
 //────────────────────────────
-global.imagen1 = ['./media/bixbyvision.png']
-global.imagen4 = fs.readFileSync('./bixbyvision.png')
+global.imagen1 = ['./media/bixby.png']
+global.imagen4 = fs.readFileSync('./bixby.png')
 //────────────────────────────
 
 // Sticker WM (Nome del pacchetto degli sticker)
