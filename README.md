@@ -16,43 +16,43 @@
 ### ` 𝐕𝐄𝐑𝐒𝐈𝐎𝐍𝐄 𝐃𝐈 𝐌𝐓-𝐌𝐀𝐍𝐀𝐆𝐄𝐑 𝐍𝐄𝐂𝐂𝐄𝐒𝐒𝐀𝐑𝐈𝐀 𝐏𝐄𝐑 𝐋'𝐄𝐃𝐈𝐓 𝐃𝐄𝐋 𝐁𝐎𝐓 `
 https://mt-manager.en.softonic.com/android?psafe_param=1&utm_source=SEM&utm_medium=paid&utm_campaign=IT_Italy_DSA_mobile&gad_source=1&gclid=CjwKCAiA6aW6BhBqEiwA6KzDc6U6GJcHp-i1gZZS5OFs6OL8vXMvOx8zSo4Gm31AZcV1RgmVQgWO2BoClRIQAvD_BwE 
 ══════ •⊰✦⊱• ══════
- `𝐂𝐨𝐦𝐚𝐧𝐝𝐢 𝐩𝐞𝐫 𝐬𝐜𝐚𝐫𝐢𝐜𝐚𝐫𝐞 𝟑𝟑𝟑 𝐁𝐨𝐭` 
+
+ ### `𝐂𝐨𝐦𝐚𝐧𝐝𝐢 𝐩𝐞𝐫 𝐬𝐜𝐚𝐫𝐢𝐜𝐚𝐫𝐞 𝟑𝟑𝟑 𝐁𝐨𝐭` 
+
+
+ termux-setup-storage 
+
+``` pkg install ffmpeg -y
 
 ```bash
-✧ termux-setup-storage 
+ pkg install git -y
 
 ```bash
-✧ pkg install ffmpeg -y
+ pkg upgrade -y && pkg update -y
 
 ```bash
-✧ pkg install git -y
+ pkg install yarn
 
 ```bash
-✧ pkg upgrade -y && pkg update -y
+ pkg install imagemagick -y
 
 ```bash
-✧ pkg install yarn
+ cd /sdcard && rm -rf BixbyBot && git clone https://github.com/numerofoxi/Gab.git
 
 ```bash
-✧ pkg install imagemagick -y
+ cd /sdcard/Gab
 
 ```bash
-✧ cd /sdcard && rm -rf BixbyBot && git clone https://github.com/numerofoxi/Gab.git
+ yarn install 
 
 ```bash
-✧ cd /sdcard/Gab
+ npm install
 
 ```bash
-✧ yarn install 
+ npm update
 
 ```bash
-✧ npm install
-
-```bash
-✧ npm update
-
-```bash
-✧ npm start
+ npm start
 
 
  ---------------------------------------------
