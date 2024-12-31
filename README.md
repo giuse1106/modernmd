@@ -21,7 +21,8 @@ https://mt-manager.en.softonic.com/android?psafe_param=1&utm_source=SEM&utm_medi
 
 
 
-```termux-setup-storage 
+``` 
+termux-setup-storage 
 
 pkg install ffmpeg -y
 
