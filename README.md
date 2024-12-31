@@ -21,7 +21,7 @@ https://mt-manager.en.softonic.com/android?psafe_param=1&utm_source=SEM&utm_medi
 
 
 
-termux-setup-storage 
+```termux-setup-storage 
 
 pkg install ffmpeg -y
 
@@ -53,7 +53,7 @@ pkg upgrade -y && pkg update -y
  npm update
 
  npm start
-
+```
 
  ---------------------------------------------
  ### `✦ 𝐍𝐎𝐓𝐄  ꙰ 𝟥𝟥𝟥 ꙰ 𝔹𝕆𝕋 ꙰  🔮` 
