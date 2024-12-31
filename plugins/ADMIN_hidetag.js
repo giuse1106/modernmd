@@ -1,3 +1,5 @@
+//Crediti by Gabs
+
 import { generateWAMessageFromContent } from '@whiskeysockets/baileys'
 import * as fs from 'fs'
 
