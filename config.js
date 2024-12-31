@@ -1,4 +1,4 @@
-import { watchFile, unwatchFile } from 'fs'
+ioimport { watchFile, unwatchFile } from 'fs'
 import chalk from 'chalk'
 import fs from 'fs'
 import { fileURLToPath } from 'url'
@@ -50,8 +50,8 @@ global.APIKeys = {
 
 
 //────────────────────────────
-global.imagen1 = ['./media/bixby.png']
-global.imagen4 = fs.readFileSync('./bixby.png')
+global.imagen1 = ['./media/333.png']
+global.imagen4 = fs.readFileSync('./333.png')
 //────────────────────────────
 
 // Sticker WM (Nome del pacchetto degli sticker)
