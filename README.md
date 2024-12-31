@@ -20,7 +20,8 @@ https://mt-manager.en.softonic.com/android?psafe_param=1&utm_source=SEM&utm_medi
  ### `𝐂𝐨𝐦𝐚𝐧𝐝𝐢 𝐩𝐞𝐫 𝐬𝐜𝐚𝐫𝐢𝐜𝐚𝐫𝐞 𝟑𝟑𝟑 𝐁𝐨𝐭` 
 
 
- termux-setup-storage 
+
+``` termux-setup-storage 
 
 ``` pkg install ffmpeg -y
 
