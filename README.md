@@ -21,38 +21,37 @@ https://mt-manager.en.softonic.com/android?psafe_param=1&utm_source=SEM&utm_medi
 
 
 
-```termux-setup-storage 
+termux-setup-storage 
 
-``` pkg install ffmpeg -y
+pkg install ffmpeg -y
 
-```bash
+
  pkg install git -y
 
-```bash
- pkg upgrade -y && pkg update -y
 
-```bash
+pkg upgrade -y && pkg update -y
+
+
  pkg install yarn
 
-```bash
+
  pkg install imagemagick -y
 
-```bash
+
  cd /sdcard && rm -rf BixbyBot && git clone https://github.com/numerofoxi/Gab.git
 
-```bash
+
  cd /sdcard/Gab
 
-```bash
+
  yarn install 
 
-```bash
+
  npm install
 
-```bash
+
  npm update
 
-```bash
  npm start
 
 
