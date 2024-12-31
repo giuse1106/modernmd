@@ -7,18 +7,14 @@ global.botnumber = ""
 global.confirmCode = ""
 
 global.owner = [
-  ['xxxxxxxxxx', '𝐃𝚲𝐍𝕀𝚵𝐋͎💋', true],
-  ['xxxxxxxxxx',],
-  ['xxxxxxxxxx'],	
-  ['xxxxxxxxxx',],
-  ['xxxxxxxxxx'],
-  ['xxxxxxxxxx'],
+    ['393792004234', 'Proprietario', true],
+    ['37379715748', 'Host Manager', true],
 ] //Numero degli owner
 
 //────────────────────────────
 
 global.mods = ['xxxxxxxxxx'] 
-global.prems = ['xxxxxxxxxx', 'xxxxxxxxxx']
+global.prems = [ 'xxxxxxxxxx', 'xxxxxxxxxx']
 
 //────────────────────────────
 
@@ -54,25 +50,25 @@ global.APIKeys = {
 
 
 //────────────────────────────
-global.imagen1 = ['./media/menu1.jpg']
-global.imagen4 = fs.readFileSync('./bixbyvision16.png')
+global.imagen1 = ['./media/333.jpg']
+global.imagen4 = fs.readFileSync('./333.png')
 //────────────────────────────
 
 // Sticker WM (Nome del pacchetto degli sticker)
-global.packname = '𝐁𝐢𝐱𝐛𝐲𝐁𝐨𝐭'
+global.packname = ' ꙰ 𝟥𝟥𝟥 ꙰ 𝔹𝕆𝕋 ꙰ '
 global.author = '𝐌𝐝'
 
 //────────────────────────────
 
-global.vs = '𝟐.𝟐'
+global.vs = '5.𝟎'
 
-global.nomebot = '𝐁𝐢𝐱𝐛𝐲𝐁𝐨𝐭-𝐌𝐝'
+global.nomebot = ' ꙰ 𝟥𝟥𝟥 ꙰ 𝔹𝕆𝕋 ꙰ '
 
 global.multiplier = 69 
 global.maxwarn = '4' 
 //────────────────────────────
 
-global.wm = '𝐁𝐢𝐱𝐛𝐲𝐁𝐨𝐭-𝐌𝐝'
+global.wm = ' ꙰ 𝟥𝟥𝟥 ꙰ 𝔹𝕆𝕋 ꙰ '
 global.wait = 'ⓘ 𝐂𝐚𝐫𝐢𝐜𝐚𝐦𝐞𝐧𝐭𝐨 ...'
 
 //────────────────────────────
