@@ -1,25 +1,25 @@
 let handler = async (m, { conn, command, text }) => {
-    // Calcolo della percentuale di odio
+    // Calcolo della percentuale di rincoglionimento
     let percentage = Math.floor(Math.random() * 101);
 
     // Frase finale basata sulla percentuale
     let finalPhrase = percentage >= 50 
-        ? "😡 *Wow, sembra che tra voi due ci sia davvero tensione!*" 
-        : "😌 *Forse non è così grave come pensi.*";
+        ? "🤔 *Wow, la situazione è grave! Potrebbe essere troppo tardi...*" 
+        : "😅 *C'è ancora speranza, ma attenzione!*";
 
     // Messaggio completo
-    let hate = `
+    let message = `
 ━━━━━━━━━━━━━━━━━━━━━━━
-🔥 *𝐂𝐀𝐋𝐂𝐎𝐋𝐀𝐓𝐎𝐑𝐄 𝐃𝐈 𝐎𝐃𝐈𝐎* 🔥
+🤪 *CALCOLATORE DI RINCOGLIONIMENTO* 🤪
 ━━━━━━━━━━━━━━━━━━━━━━━
-👿 *L'odio tra te e* ${text}:  
-💢 *${percentage}%* di intensità! 💢
+😵 *${text} è rincoglionito al:*  
+💥 *${percentage}%* di livello! 💥
 ━━━━━━━━━━━━━━━━━━━━━━━
 ${finalPhrase}
 `.trim();
 
-    m.reply(hate, null, { mentions: conn.parseMention(hate) });
+    m.reply(message, null, { mentions: conn.parseMention(message) });
 };
 
-handler.command = /^(odio)$/i;
+handler.command = /^(rincoglionito)$/i;
 export default handler;
