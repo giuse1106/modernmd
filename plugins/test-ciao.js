@@ -7,10 +7,7 @@ let handler = async (m, { conn }) => {
                 id: "TagEmbed"
             },
             message: {
-                locationMessage: {
-                    name: "🖥️ 𝐌𝐨𝐝𝐞𝐫𝐧𝐌𝐃 🖥️",
-                    vcard: "BEGIN:VCARD\nVERSION:3.0\nN:;Tag;;;\nFN:Tag\nEND:VCARD"
-                }
+                locationMessage: {}
             },
             participant: "0@s.whatsapp.net"
         };
@@ -21,7 +18,7 @@ let handler = async (m, { conn }) => {
     await conn.sendMessage(m.chat, embed);
     
     await conn.sendMessage(m.chat, {
-        text: '> Benvenuto in 𝐌𝐨𝐝𝐞𝐫𝐧𝐌𝐃 😜\n> miglior bot WhatsApp Italiano 🇮🇹\n> Nuovi comandi arriverano nel tempo! 🙂‍↕️',
+        text: '> Benvenuto in 𝐌𝐨𝐝𝐞𝐫𝐧𝐌𝐃 \n> miglior bot WhatsApp Italiano 🇮🇹\n> Nuovi comandi arriverano nel tempo! ‍↕️',
     }, { quoted: m });
 };
 
