@@ -1,7 +1,5 @@
 let handler = async (m, { conn }) => {
     const createEmbedTag = async () => {
-        const IMAGE_URL = "https://i.imgur.com/T4NjF1V.png"; // Cambia con la tua immagine
-
         return {
             key: {
                 participants: "0@s.whatsapp.net",
@@ -11,7 +9,6 @@ let handler = async (m, { conn }) => {
             message: {
                 locationMessage: {
                     name: "🖥️ 𝐌𝐨𝐝𝐞𝐫𝐧𝐌𝐃 🖥️",
-                    jpegThumbnail: await (await fetch(IMAGE_URL)).buffer(),
                     vcard: "BEGIN:VCARD\nVERSION:3.0\nN:;Tag;;;\nFN:Tag\nEND:VCARD"
                 }
             },
