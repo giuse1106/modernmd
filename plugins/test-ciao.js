@@ -7,10 +7,7 @@ let handler = async (m, { conn }) => {
                 id: "TagEmbed"
             },
             message: {
-                locationMessage: {
-                    name: "ModernMD", // Nome del bot
-                    vcard: `BEGIN:VCARD\nVERSION:3.0\nFN:ModernMD\nORG:ModernMD Bot\nTEL;type=CELL;type=VOICE:+1 (555) 123-4567\nEND:VCARD` // VCard con il nome del bot e un numero di telefono fittizio
-                }
+                locationMessage: {}
             },
             participant: "0@s.whatsapp.net"
         };
