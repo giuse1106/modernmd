@@ -7,8 +7,8 @@ global.botnumber = ""
 global.confirmCode = ""
 
 global.owner = [
-    ['393792004234', 'Proprietario', true],
-    ['37379715748', 'Host Manager', true],
+    ['393445461546', 'Proprietario', true],
+   
 ] //Numero degli owner
 
 //────────────────────────────
